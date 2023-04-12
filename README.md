@@ -49,7 +49,7 @@ No instances of lodash found.
 /path/to/your/project/subdir2/package.json:
 my-subproject@1.0.0 /path/to/your/project/subdir2
 └─┬ some-dependency@1.2.3
-└── lodash@4.17.21
+  └── lodash@4.17.21
 ```
 
 The output shows the path of each package.json containing `lodash` and the associated dependency tree.
