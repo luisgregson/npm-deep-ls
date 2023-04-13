@@ -1,7 +1,11 @@
 {
   "name": "npm-deep-ls",
   "version": "1.0.1",
-  "description": "",
+  "description": "A command-line tool that allows you to search for a specified package across all package.json files in a directory and its subdirectories, displaying the dependency tree for each matching package.json.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisgregson/npm-deep-ls.git"
+  },
   "engines": {
     "node": ">=12.0.0"
   },
